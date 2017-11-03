@@ -47,6 +47,7 @@ header {
     background: rgba(0, 0, 0, 0.5);
     border-radius: 3%;
     padding: 5px;
+    font-family: 'Alice', serif;
 }
 
 aside {
@@ -60,6 +61,7 @@ aside {
     background: rgba(0, 0, 0, 0.5);
     border-radius: 3%;
     padding: 5px;
+    font-family: 'Alice', serif;
 }
 
 article {
@@ -72,6 +74,7 @@ article {
     background: rgba(0, 0, 0, 0.5);
     border-radius: 3%;
     padding: 5px;
+    font-family: 'Alice', serif;
 }
 
 li {
@@ -92,6 +95,7 @@ nav ul {
     float: inherit;
     padding: 0 30px;
     list-style-type: none;
+    font-family: 'Playball', cursive;
 }
 
 nav ul li a {
@@ -183,13 +187,19 @@ img {
     padding: 5px;
 }
 
-table, caption, th, td {
+table, th, td {
     border: 1px solid black;
     color: black;
     background-color: yellow;
     margin-top: 0.5%;
     margin-right: 33%;
-    margin-left: 33%;
+    margin-left: 38%;
 }
 
+caption {
+    border: 1px solid black;
+    color: black;
+    background-color: yellow;
+    margin-top: 0.5%;
+}
 
